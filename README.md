@@ -6,3 +6,5 @@ This project is part of the tutorial series "Let's build a DOTS based Tetris Clo
 This is a learning project, intended to show you how to solve real life problems. At the moment of uploading this project, the DOTS project is still in preview, so there are areas in which we simply can't be sure what are best practices, as there may be changes in the technology before the final release. 
 
 You can find a full explanation of the code and the project in general by watching the video series: This is the first episode: https://youtu.be/yD4WKyG1Zf8
+
+Originally it was planed to update this repository with every new episode, but due to events out of my control, I won't be able to produce more videos. So the finall version has no video explanation. You have to study the code yourself.
