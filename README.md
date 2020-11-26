@@ -8,4 +8,4 @@ This is a learning project, intended to show you how to solve real life problems
 You can find an explanation of the code and the project in general by watching the video series: This is the first episode: https://youtu.be/yD4WKyG1Zf8
 
 # Update
-Originally it was planed to update this repository with every new episode, but due to events outside of my control, I won't be able to produce more videos. So the finall version was uploaded without any further video explanation, but you can clone the projects and study the code yourself.
+Originally it was planed to update this repository with every new episode, but due to events outside of my control, I won't be able to produce more videos. So the finall version was uploaded without any further video explanation, but you can still clone the project and study the code yourself.
